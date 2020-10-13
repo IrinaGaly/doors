@@ -13,6 +13,7 @@
     "IE 10"
   ],
   "dependencies": {
+    "animate.css": "^4.1.1",
     "bxslider": "^4.2.14",
     "cross-env": "^7.0.2",
     "flickity": "^2.2.1",
